@@ -2,16 +2,16 @@
 
 /* @var $this yii\web\View */
 
-$this->title = 'My Yii Application';
+$this->title = 'Тест';
 ?>
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>Congratulations!</h1>
+        <h1>Заголовок</h1>
 
-        <p class="lead">You have successfully created your Yii-powered application.</p>
+        <p class="lead">Вниз не смотрим, там рыба, глядим на менюшку, там все важное. Для тестированиея учетные пары (цифры меняем от 1 до 4): user1 / test1 </p>
 
-        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
+        
     </div>
 
     <div class="body-content">
